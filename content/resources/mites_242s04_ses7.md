@@ -4,6 +4,8 @@ description: This resource contains the information regarding .
 file: /courses/es-242-gender-issues-in-academics-and-academia-spring-2004/3a02f6b357d510f5be7558608ea82a24_MITES_242S04_ses7.pdf
 file_size: 132110
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
