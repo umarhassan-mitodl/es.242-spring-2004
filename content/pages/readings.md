@@ -56,11 +56,11 @@ Title IX
 
 JBR, chapter 1: "Too Strong for a Woman: The Five Words that Created Title IX" (Sandler).
 
-"[Title IX of the Education Amendments of 1972](https://www.hhs.gov/civil-rights/for-individuals/sex-discrimination/title-ix-education-amendments/index.html#:~:text=Title%20IX%20of%20the%20Education%20Amendments%20of%201972%20%28Title%20IX,activity%20receiving%20federal%20financial%20assistance.)". 20 U.S.C. §1681-1688.
+"{{% resource_link "fd2bb8bc-3f24-4093-8195-ce32e228523d" "Title IX of the Education Amendments of 1972" %}}". 20 U.S.C. §1681-1688.
 
-Riley, Richards and Norma Cantú. "[Title IX: 25 Years of Progress](http://www.ed.gov/pubs/TitleIX/index.html)." *U.S. Department of Education* (June 1997).
+Riley, Richards and Norma Cantú. "{{% resource_link "7916dddd-f5a3-41f4-aed7-adf9aad31246" "Title IX: 25 Years of Progress" %}}." *U.S. Department of Education* (June 1997).
 
-Toppo, Greg. "[New rules would allow more single-sex schools](http://www.usatoday.com/news/education/2004-03-03-single-sex-schools-usat_x.htm)." *U.S.A. TODAY* (March 3, 2004).
+Toppo, Greg. "{{% resource_link "a3968c0f-c964-43f9-b306-14f3ca0ef3de" "New rules would allow more single-sex schools" %}}." *U.S.A. TODAY* (March 3, 2004).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
@@ -70,11 +70,11 @@ Standardized Tests
 
 FAF section: "Designing Tests" from chapter 6: "Test Dive." \[Section starts on p. 131.\]
 
-The College Board Office of Research and Development. "[Research Summary: SAT and Gender Differences](https://files.eric.ed.gov/fulltext/ED562837.pdf)." College Entrance Examination Board (February 1998).
+The College Board Office of Research and Development. "{{% resource_link "c62f74ea-c3cb-4915-8dfc-8f459d90b936" "Research Summary: SAT and Gender Differences" %}}." College Entrance Examination Board (February 1998).
 
-Buck, Gary, Irene Koston, and Rick Morgan. "[Examining the Relationship of Content to Gender-Based Performance Differences in Advanced Placement Exams](https://files.eric.ed.gov/fulltext/ED561047.pdf)." College Entrance Examination Board (2002). \[Only read pp. 1-3 (until the "Method" section), and p. 18 ("Implications"). The rest can be skimmed or skipped -- it goes into far more detail than we'll need.\]
+Buck, Gary, Irene Koston, and Rick Morgan. "{{% resource_link "5ccba0b7-eced-493a-b440-e0ee0c42c66b" "Examining the Relationship of Content to Gender-Based Performance Differences in Advanced Placement Exams" %}}." College Entrance Examination Board (2002). \[Only read pp. 1-3 (until the "Method" section), and p. 18 ("Implications"). The rest can be skimmed or skipped -- it goes into far more detail than we'll need.\]
 
-Dittman, M. "[College Women Underperform on Tests When in the Minority](http://www.apa.org/monitor/jan04/college.html)." *Monitor on Psychology* 35, no. 1 (January 2004): 14.
+Dittman, M. "{{% resource_link "4b57248c-9f48-48ea-8ea2-9dc174efce57" "College Women Underperform on Tests When in the Minority" %}}." *Monitor on Psychology* 35, no. 1 (January 2004): 14.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
@@ -84,7 +84,7 @@ Single-Sex Schooling
 
 Kaminar, Wendy. "The Trouble with Same-sex schools." *Atlantic Monthly* (April 1998).
 
-National Association of State Boards of Education. "[Single-Sex Schools](http://www.detnews.com/apps/pbcs.dll/article?AID=/20071113/SCHOOLS/711130397/1026)." *Policy Update* 5, no. 15 (July-August 1997).
+National Association of State Boards of Education. "{{% resource_link "7acd50a2-6338-4645-bd02-f93280a5e562" "Single-Sex Schools" %}}." *Policy Update* 5, no. 15 (July-August 1997).
 
 Schemo, Diana Jean. "Administration Proposes Same-Sex-School Option." *New York Times* (March 4, 2004).
 
@@ -110,11 +110,11 @@ Friedan, Betty. "The Sex-Directed Educators." Chapter 7 in *The Feminine Mystiqu
 
 *Optional:*
 
-Film: [*Mona Lisa Smile*](http://www.imdb.com/title/tt0304415/), Revolution Studios and Columbia Pictures (2003).
+Film: {{% resource_link "f80de4b8-997a-4ed2-ab2f-09c7618c10b8" "*Mona Lisa Smile*" %}}, Revolution Studios and Columbia Pictures (2003).
 
 Kayes, Rebecca. "Frowning at Mona Lisa Smile: An Alum Looks Back." *Counterpoint: The MIT-Wellesley Journal of Campus Life* 26, no. 1 (February 2004): 6-7.
 
-Walsh, Diana Chapman. "[Message from the President to Wellesley College Alumnae Concerning the Film, Mona Lisa Smile](http://www.wellesley.edu/PublicAffairs/Wwire/2004/010904.html)." *Wellesley College Office for Public Information* (January 9, 2004).
+Walsh, Diana Chapman. "{{% resource_link "86e53f80-79a2-4017-b22b-3e358b2cbf40" "Message from the President to Wellesley College Alumnae Concerning the Film, Mona Lisa Smile" %}}." *Wellesley College Office for Public Information* (January 9, 2004).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -122,9 +122,9 @@ Walsh, Diana Chapman. "[Message from the President to Wellesley College Alumnae 
 Women's Studies
 {{< tdclose >}}{{< tdopen >}}
 
-"[Men in Women's Studies Classes II](https://userpages.umbc.edu/~korenman/wmst/men97_1.html)." E-mail archive of WMST-L list (February 1999).
+"{{% resource_link "3011088f-287c-41fe-a57a-f109149290a7" "Men in Women's Studies Classes II" %}}." E-mail archive of WMST-L list (February 1999).
 
-Agozino, Biko. "[What Women's Studies Offer Men](http://www.africaknowledgeproject.org/index.php/war/article/view/433)." *West Africa Review* 2, no. 1 (August 2002). ISSN: 1525-4488.
+Agozino, Biko. "{{% resource_link "ddcdca84-3b6d-412f-ac41-6532d8d209eb" "What Women's Studies Offer Men" %}}." *West Africa Review* 2, no. 1 (August 2002). ISSN: 1525-4488.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
@@ -132,9 +132,9 @@ Agozino, Biko. "[What Women's Studies Offer Men](http://www.africaknowledgeproje
 ESL Studies and Cross-Cultural Issues
 {{< tdclose >}}{{< tdopen >}}
 
-Morris, Lori. "[Differences in Men's and Women's ESL Writing at the Junior College Level: Consequences for Research on Feedback](http://utpjournals.metapress.com/content/y3271k578w1glr72/)." *Canadian Modern Language Review* 55, no. 2 (December 1998).
+Morris, Lori. "{{% resource_link "1fd47c53-857b-486a-82b4-9c5d7083af90" "Differences in Men's and Women's ESL Writing at the Junior College Level: Consequences for Research on Feedback" %}}." *Canadian Modern Language Review* 55, no. 2 (December 1998).
 
-McGroarty, Mary. "[Cross-Cultural Issues in Adult ESL Classrooms](http://www.cal.org/caela/esl_resources/digests/cross_cultural.html)." *Center for Adult English Language Acquisition Digests* (July 1993).
+McGroarty, Mary. "{{% resource_link "2bc8d6e1-7311-4cc6-8e96-0aa9aa7f27ff" "Cross-Cultural Issues in Adult ESL Classrooms" %}}." *Center for Adult English Language Acquisition Digests* (July 1993).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
@@ -144,11 +144,11 @@ MIT's Journey Towards Diversity
 
 Jaimes, Joel J. "Diversity at MIT: 1981 to Present." *The Tech* 123, no. 3 (February 11, 2003).
 
-Penfield, Paul. "[Faculty Diversity](http://www-mtl.mit.edu/~penfield/pubs/diversity.html)." *MIT Faculty Newsletter* 6, no. 3 (January/February 1994): 1, 12-15.
+Penfield, Paul. "{{% resource_link "031613ad-9e95-4eab-9acd-03d5f42e4f0a" "Faculty Diversity" %}}." *MIT Faculty Newsletter* 6, no. 3 (January/February 1994): 1, 12-15.
 
-MIT Committee on Women Faculty in the School of Science. "[A Study on the Status of Women Faculty in Science at MIT](http://web.mit.edu/fnl/women/women.html)." *MIT Faculty Newsletter* 11, no. 4 (March 1999).
+MIT Committee on Women Faculty in the School of Science. "{{% resource_link "c32a132b-e453-4678-b2d3-37e904e131c1" "A Study on the Status of Women Faculty in Science at MIT" %}}." *MIT Faculty Newsletter* 11, no. 4 (March 1999).
 
-Waugh, Alice C. "[Policies Have Helped Boost Women Faculty](http://web.mit.edu/newsoffice/2004/fac-diversity-0331.html)." *MIT Tech Talk* (March 31, 2004).
+Waugh, Alice C. "{{% resource_link "00d39280-bb1a-4689-ba34-a87c4431bc21" "Policies Have Helped Boost Women Faculty" %}}." *MIT Tech Talk* (March 31, 2004).
 
 JBR, chapter 26: "Examining Women's Progress in the Sciences from the Perspective of Diversity" (Clewell and Ginorio).
 
@@ -160,11 +160,11 @@ Opting Out
 
 Belkin, Lisa. "The Opt-Out Revolution." *New York Times* (October 26, 2003).
 
-Wallis, Claudia. "[The Case for Staying at Home: Why More Young Moms Are Opting Out of the Rat Race](http://content.time.com/time/covers/0,16641,20040322,00.html)." *TIME* (March 22, 1994).
+Wallis, Claudia. "{{% resource_link "c8f2ed40-6349-4916-a74f-51931354276c" "The Case for Staying at Home: Why More Young Moms Are Opting Out of the Rat Race" %}}." *TIME* (March 22, 1994).
 
-Boufis, Christina. "[Strange Bedfellows: Does Academic Life Lead to Divorce](http://www.salon.com/1999/03/25/24feature_5/)?" *Salon* (March 24, 1999).
+Boufis, Christina. "{{% resource_link "0e7b03b4-cb3c-49db-8e9b-64f8917be708" "Strange Bedfellows: Does Academic Life Lead to Divorce" %}}?" *Salon* (March 24, 1999).
 
-Hilborn, Robert C., Ruth H. Howes, Barbara L. Whitten, Suzanne R. Foster, and Margaret L. Duncombe. "[What Works for Women in Undergrad Physics](http://www.cirtl.net/node/5543)?" *Physics Today* 56, no. 9 (September 2003): 46.
+Hilborn, Robert C., Ruth H. Howes, Barbara L. Whitten, Suzanne R. Foster, and Margaret L. Duncombe. "{{% resource_link "3675b352-7f14-4c5d-af06-076842ac9f16" "What Works for Women in Undergrad Physics" %}}?" *Physics Today* 56, no. 9 (September 2003): 46.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
