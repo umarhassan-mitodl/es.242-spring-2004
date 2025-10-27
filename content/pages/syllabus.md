@@ -2,8 +2,6 @@
 content_type: page
 description: This section contains information about format, course description, class
   structure, readings, writing assignmnets and gradinmg criteria for the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -18,7 +16,7 @@ Lectures: 1 session / week, 2 hours / session
 Format
 ------
 
-This course, as part of the [Experimental Study Group](http://esg.mit.edu/) Seminar Series, offers students the opportunity to participate in a small discussion-based class taught by an MIT upperclassman under the guidance of a faculty supervisor. Students Laurel Ruhlen (B.S. 06 Physics) and Kayla Jacobs (B.S. 06 Physics, 07 Mathematics) taught this seminar in cooperation with Dr. Holly Sweet, Lecturer and Associate Director of the Experimental Study Group. Seminars taught in this format are all graded Pass/Fail and receive 1/2 of the academic credit assigned to regular academic classes.
+This course, as part of the {{% resource_link "2c46c018-e49a-4eb8-80d2-38fbad95a564" "Experimental Study Group" %}} Seminar Series, offers students the opportunity to participate in a small discussion-based class taught by an MIT upperclassman under the guidance of a faculty supervisor. Students Laurel Ruhlen (B.S. 06 Physics) and Kayla Jacobs (B.S. 06 Physics, 07 Mathematics) taught this seminar in cooperation with Dr. Holly Sweet, Lecturer and Associate Director of the Experimental Study Group. Seminars taught in this format are all graded Pass/Fail and receive 1/2 of the academic credit assigned to regular academic classes.
 
 Course Description
 ------------------
